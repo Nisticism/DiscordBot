@@ -123,6 +123,4 @@ client.on('message', (message) => {
     }
 })
 
-//runGetStuff("thezohansc", "rapid");
-
-client.login('Nzk1MTcyMDE2MTcyODI2Njc1.X_Ffpg.lQWgRUGb2Iy1gY5fYNNAemPeuCU');
+client.login('Nzk1MTcyMDE2MTcyODI2Njc1.X_Ffpg.JrPparM0O1nh1fg8oGNxhThVhqM');
