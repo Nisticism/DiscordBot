@@ -192,10 +192,6 @@ client.on('message', (message) => {
     }
 })
 
-//let getKeyClass = keyClassM.getKeyClass();
-
 const key = (keyClassX.getKeyClass())();
-
-console.log(key);
 
 client.login(key);
